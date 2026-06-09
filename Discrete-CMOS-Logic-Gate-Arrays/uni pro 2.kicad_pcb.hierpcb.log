@@ -1,0 +1,29 @@
+Plugin v0.0.1 running on KiCad 10.0.1 and Python 3.11.5 (main, Jan 23 2026, 07:39:48) [MSC v.1944 64 bit (AMD64)] on win32.
+Config file C:\Users\Kayla\Downloads\esp32\uni pro\uni pro 2\uni pro 2.kicad_pcb.hierpcb.json not found. Creating new one.
+Footprint kibuzzard-6A1F1C81 is not on a sheet, skipping...
+Imported C:\Users\Kayla\Downloads\esp32\uni pro\uni pro 2\uni pro 2.kicad_pcb, with 22 footprints, 14 tracks, and 23 drawings.
+Footprint kibuzzard-6A1F1C5F is not on a sheet, skipping...
+/ (+ PCB C:\Users\Kayla\Downloads\esp32\uni pro\uni pro 2\uni pro 2.kicad_pcb)
+Missing path: kibuzzard-6A1F1C81 (C:\Users\Kayla\Downloads\esp32\uni pro\uni pro 2\uni pro 2.kicad_pcb)
+Missing path: kibuzzard-6A1F1C5F (C:\Users\Kayla\Downloads\esp32\uni pro\uni pro 2\uni pro 2.kicad_pcb)
+PCB C:\Users\Kayla\Downloads\esp32\uni pro\uni pro 2\uni pro 2.kicad_pcb
+  /5c19366e: Q9
+  /9e38b78a: Q7
+  /46e734df: Q11
+  /99e32a08: J1
+  /5777b0d8: Q1
+  /0f22130b: J2
+  /104631ec: Q12
+  /b64a017b: Q14
+  /093f82c8: Q10
+  /12d876e6: J3
+  /f04fea90: Q3
+  /6aabfcb5: J5
+  /1174b46c: J6
+  /dfb4bcd7: Q6
+  /1c236a0d: Q4
+  /31485634: Q8
+  /b3710ff2: Q2
+  /0d43d7d1: Q5
+  /a9cd7ee2: J4
+  /f0b64c46: Q13
