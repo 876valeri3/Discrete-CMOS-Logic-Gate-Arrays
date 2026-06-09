@@ -18,3 +18,13 @@ Each modular DIP PCB mimics a standard IC layout broken out to 2.54mm pitch head
 *   **Pin 3 (B):** Digital Input B 
 *   **Pin 4 (GND):** 0V Ground Reference
 *   **Pin 5 (Q):** Logic Output (can be used to display LEDs or add on to other modules)
+
+## Simulation Waveforms & Circuit Previews
+
+### LTSpice Simulation Results
+![LTSpice Transient Analysis Waveforms](Screenshot%202026-06-09%20173256.png)
+
+### Circuit Schematics
+![NOT Gate Schematic](Screenshot%202026-06-09%20162142.png)
+![AND Gate Schematic](Screenshot%202026-06-09%20162312.png)
+![OR Gate Schematic](Screenshot%202026-06-09%20162352.png)
