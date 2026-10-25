@@ -35,3 +35,5 @@ Each modular DIP PCB mimics a standard IC layout broken out to 2.54mm pitch head
 *   **Pin 3 (B):** Digital Input B 
 *   **Pin 4 (GND):** Ground Reference
 *   **Pin 5 (Q):** Logic Output (can be used to display LEDs or add on to other modules)
+
+NB: The original designs were done in KiCAD. Final designs are done in EasyEDA
