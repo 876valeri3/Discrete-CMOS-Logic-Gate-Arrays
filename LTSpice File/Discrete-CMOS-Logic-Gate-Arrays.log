@@ -1,6 +1,6 @@
 LTspice 26.0.2 for Windows
 Circuit: C:\Users\chloe\OneDrive\Documents\GitHub\Discrete-CMOS-Logic-Gate-Arrays\LTSpice File\Discrete-CMOS-Logic-Gate-Arrays.net
-Start Time: Sun Oct 25 11:47:13 2026
+Start Time: Fri Oct 30 10:48:30 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -15,7 +15,7 @@ C:\Users\chloe\OneDrive\Documents\GitHub\Discrete-CMOS-Logic-Gate-Arrays\LTSpice
 V2 A0 0 PULSE(0 5 0 0 0 5m 10m 100)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.247 seconds.
+Total elapsed time: 0.253 seconds.
 
 Files loaded:
 C:\Users\chloe\OneDrive\Documents\GitHub\Discrete-CMOS-Logic-Gate-Arrays\LTSpice File\Discrete-CMOS-Logic-Gate-Arrays.net
